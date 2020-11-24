@@ -2,3 +2,5 @@
 /workspace.xml
 .idea
 *.iml
+/target
+/.idea
