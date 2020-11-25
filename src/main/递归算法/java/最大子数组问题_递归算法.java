@@ -15,7 +15,7 @@ public class 最大子数组问题_递归算法 {
         }
 
         int end = 2;
-        int result = arr[0];
+        int result = 0;
         int curVal = arr[0];
         int minVal = arr[0];
         // 递归已改成循环形式
